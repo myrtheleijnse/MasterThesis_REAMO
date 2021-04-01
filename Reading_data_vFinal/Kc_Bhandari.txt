@@ -1,0 +1,4 @@
+crop initial cropdevelop midseas lateseas
+wheat 0.34 0.67 0.73 0.06
+maize 0.11 0.35 1.51 0.34
+rice 2.92 1.85 0.43 0.12
